@@ -1,0 +1,13 @@
+Instructing LLMs to Negotiate using Reinforcement Learning with Verifiable Rewards
+Copyright 2026 Shuze Daniel Liu
+
+This product includes the AmazonHistoryPrice dataset (data/AmazonHistoryPrice/) and code derived
+from the AmazonHistoryPrice bargaining benchmark, https://github.com/TianXiaSJTU/AmazonPriceHistory,
+licensed under the Apache License, Version 2.0. The derived files are
+negotiation_rl/prompts.py, negotiation_rl/parsing.py and negotiation_rl/products.py; each names
+the upstream file it was adapted from. The dataset files are unchanged.
+
+The dataset is described in:
+  Tian Xia, Zhiwei He, Tong Ren, Yibo Miao, Zhuosheng Zhang, Yang Yang, and Rui Wang.
+  Measuring Bargaining Abilities of LLMs: A Benchmark and A Buyer-Enhancement Method.
+  Findings of the Association for Computational Linguistics: ACL 2024.

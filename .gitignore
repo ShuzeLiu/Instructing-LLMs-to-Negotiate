@@ -1,0 +1,11 @@
+# API keys
+.env
+
+# Training outputs
+outputs/
+
+# Python
+__pycache__/
+*.egg-info/
+build/
+.venv/
